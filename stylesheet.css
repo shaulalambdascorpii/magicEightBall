@@ -1,0 +1,12 @@
+body {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    background-image: url(./magic-8-image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+}
+
