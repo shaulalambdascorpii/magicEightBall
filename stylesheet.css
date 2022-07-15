@@ -1,12 +1,28 @@
-body {
+/* body {
     font-family: 'Edu VIC WA NT Beginner', cursive;
     background-image: url(./magic-8-image.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
+*/
 
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
 h1 {
     text-align: center;
+    padding: 20px;
+}
+
+
+img {
+    justify-content: center;
+    width: 300px;
+    padding-bottom: 20px;
+    margin: 20px;
+    border-radius: 10px;
 }
 
